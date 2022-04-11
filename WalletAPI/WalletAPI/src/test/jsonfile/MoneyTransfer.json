@@ -1,0 +1,6 @@
+{
+  "senderPhoneNumber" : "12345",
+  "receiverPhoneNumber" : "54321",
+  "Amount" : 200.0,
+  "transactionStatus" : "pending"
+}
